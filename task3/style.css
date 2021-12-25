@@ -43,7 +43,7 @@
 
 @keyframes circle {
   from {
-    transform: rotate(0);
+    transform: rotate(10);
   }
   to {
     transform: rotate(360deg);
