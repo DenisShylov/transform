@@ -23,7 +23,7 @@
   border: 4px solid lightgray;
   border-top: 4px solid black;
   border-radius: 50%;
-  margin: 1px auto 8px;
+  margin: 0.5px auto 8px;
 
   animation: circle 2s infinite linear;
 }
